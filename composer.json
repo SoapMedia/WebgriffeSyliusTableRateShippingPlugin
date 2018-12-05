@@ -1,13 +1,11 @@
 {
-    "name": "webgriffe/sylius-table-rate-shipping-plugin",
+    "name": "soapmedia/sylius-table-rate-shipping-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Provides table rate shipping calculator.",
     "license": "MIT",
     "require": {
-        "php": "^7.2",
-
-        "sylius/sylius": "^1.3"
+        "sylius/sylius": "^1.2.3"
     },
     "require-dev": {
         "behat/behat": "^3.4",
